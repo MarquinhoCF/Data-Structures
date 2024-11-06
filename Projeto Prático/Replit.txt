@@ -1,0 +1,7 @@
+Replit
+
+* atividadePreparatoria -> https://replit.com/@MarcosFerreir14/atividadePreparatoria#main.cpp
+
+* Projeto/Willian -> https://replit.com/@WillianBrandao2/Projeto#main.cpp
+
+* converteBin -> https://replit.com/@MarcosFerreir14/converteBin#main.cpp
